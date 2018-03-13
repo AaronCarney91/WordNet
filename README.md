@@ -1,5 +1,5 @@
 # WordNet application, pass a word to wordnet to return that words synonyms.
-Written in JAVA using NetBeans, Assignment for Web and Networks module\n.
+Written in JAVA using NetBeans, Assignment for Web and Networks module./n
 JAR files used:
 common-logging.jar
 jwnl.jar
